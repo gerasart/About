@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerasart
 - 👀 I’m interested in PHP, javasript, Vue, React
-- 🌱 I’m currently learning programming paterns
+- 🌱 I’m currently learning programming patterns
 - 💞️ I’m looking to collaborate with interesting projects
 - 📫 How to reach me gerasymenkoph@gmail.com
 
