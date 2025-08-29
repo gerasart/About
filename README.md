@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerasart
-- 👀 I’m interested in PHP, javasript, Vue, React
+- 👀 I’m interested in PHP, javasript, Vue, React, java, swift, nodejs. Main job do Backend architecture.
 - 🌱 I’m currently learning programming patterns
 - 💞️ I’m looking to collaborate with interesting projects
 - 📫 How to reach me gerasymenkoph@gmail.com, https://t.me/gerasart
