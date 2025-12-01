@@ -8,6 +8,7 @@
 
 IOS Apps
 - https://apps.apple.com/ua/app/menubar-timer-max/id6749057822?mt=12
+- https://apps.apple.com/pl/app/passwords-max/id6754285236
 
 Laravel Projects
 - https://one5rp.com/ - backend api for gaming industry
